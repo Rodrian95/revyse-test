@@ -19,7 +19,7 @@ This is a dynamic cryptocurrency dashboard built with [Remix](https://remix.run/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/Rodrian95/crypto-dashboard.git
 cd crypto-dashboard
 ```
 
@@ -62,7 +62,7 @@ I never worked with Remix before but I tried to look and see what are best pract
 ## 📌 TODO
 
 - [ ] **unit tests**  
-      _Reason:_ Due to time constraints and focus on API integration and DnD functionality, test coverage was deferred. Jest is the preferred choice for future implementation.
+       _Reason:_ Due to time constraints and focus on API integration and DnD functionality, test coverage was deferred. Jest is the preferred choice for future implementation.
 
 - [ ] **light/dark mode support**  
-      _Reason:_ UI polish was de-prioritized in favor of core logic, SSR integration, and environment config. Tailwind makes this easy to integrate.
+       _Reason:_ UI polish was de-prioritized in favor of core logic, SSR integration, and environment config. Tailwind makes this easy to integrate.
