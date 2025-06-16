@@ -19,7 +19,7 @@ This is a dynamic cryptocurrency dashboard built with [Remix](https://remix.run/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Rodrian95/crypto-dashboard.git
+git clone https://github.com/Rodrian95/revyse-test.git
 cd crypto-dashboard
 ```
 
